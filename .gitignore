@@ -1,0 +1,20 @@
+.myenv/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+
+# Django
+/staticfiles/
+/media/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Environment variables
+alx_travel_app/.env
